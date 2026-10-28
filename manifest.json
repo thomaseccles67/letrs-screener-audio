@@ -1,0 +1,1500 @@
+{
+  "defaultVoice": "en-us-female",
+  "breakMs": 450,
+  "bitrate": "56k",
+  "pattern": "word \u2192 pause \u2192 sentence \u2192 pause \u2192 word",
+  "layout": "audio/{voiceId}/basic|advanced/{nn}-{slug}.mp3",
+  "helloPreview": "audio/{voiceId}/hello.mp3",
+  "voiceButtons": [
+    {
+      "n": 1,
+      "id": "en-us-female",
+      "label": "American \u00b7 Female"
+    },
+    {
+      "n": 2,
+      "id": "en-gb-female",
+      "label": "British \u00b7 Female"
+    },
+    {
+      "n": 3,
+      "id": "en-us-male",
+      "label": "American \u00b7 Male"
+    },
+    {
+      "n": 4,
+      "id": "en-gb-male",
+      "label": "British \u00b7 Male"
+    }
+  ],
+  "voices": [
+    {
+      "id": "en-us-female",
+      "label": "American \u00b7 Female",
+      "edge": "en-US-JennyNeural",
+      "locale": "en-US",
+      "gender": "female"
+    },
+    {
+      "id": "en-gb-female",
+      "label": "British \u00b7 Female",
+      "edge": "en-GB-SoniaNeural",
+      "locale": "en-GB",
+      "gender": "female"
+    },
+    {
+      "id": "en-us-male",
+      "label": "American \u00b7 Male",
+      "edge": "en-US-GuyNeural",
+      "locale": "en-US",
+      "gender": "male"
+    },
+    {
+      "id": "en-gb-male",
+      "label": "British \u00b7 Male",
+      "edge": "en-GB-RyanNeural",
+      "locale": "en-GB",
+      "gender": "male"
+    }
+  ],
+  "en-us-female": {
+    "basic": [
+      {
+        "index": 0,
+        "word": "mud",
+        "sentence": "Don't step in the mud.",
+        "file": "en-us-female/basic/01-mud.mp3",
+        "bytes": 50301
+      },
+      {
+        "index": 1,
+        "word": "nap",
+        "sentence": "I like to nap when I'm tired.",
+        "file": "en-us-female/basic/02-nap.mp3",
+        "bytes": 53997
+      },
+      {
+        "index": 2,
+        "word": "set",
+        "sentence": "The sun will set in the west.",
+        "file": "en-us-female/basic/03-set.mp3",
+        "bytes": 53829
+      },
+      {
+        "index": 3,
+        "word": "fog",
+        "sentence": "It's hard to see in thick fog.",
+        "file": "en-us-female/basic/04-fog.mp3",
+        "bytes": 53829
+      },
+      {
+        "index": 4,
+        "word": "rib",
+        "sentence": "The football player broke his rib.",
+        "file": "en-us-female/basic/05-rib.mp3",
+        "bytes": 54837
+      },
+      {
+        "index": 5,
+        "word": "life",
+        "sentence": "Remember to enjoy life every day.",
+        "file": "en-us-female/basic/06-life.mp3",
+        "bytes": 56013
+      },
+      {
+        "index": 6,
+        "word": "shack",
+        "sentence": "A shack is a small house.",
+        "file": "en-us-female/basic/07-shack.mp3",
+        "bytes": 53157
+      },
+      {
+        "index": 7,
+        "word": "stone",
+        "sentence": "Stone walls last a long time.",
+        "file": "en-us-female/basic/08-stone.mp3",
+        "bytes": 56013
+      },
+      {
+        "index": 8,
+        "word": "trunk",
+        "sentence": "I keep all my toys in a trunk.",
+        "file": "en-us-female/basic/09-trunk.mp3",
+        "bytes": 55341
+      },
+      {
+        "index": 9,
+        "word": "goat",
+        "sentence": "A goat is a useful farm animal.",
+        "file": "en-us-female/basic/10-goat.mp3",
+        "bytes": 55341
+      },
+      {
+        "index": 10,
+        "word": "scrape",
+        "sentence": "Did you scrape your knee when you fell down?",
+        "file": "en-us-female/basic/11-scrape.mp3",
+        "bytes": 55005
+      },
+      {
+        "index": 11,
+        "word": "beat",
+        "sentence": "Keep the beat when you clap to music.",
+        "file": "en-us-female/basic/12-beat.mp3",
+        "bytes": 55005
+      },
+      {
+        "index": 12,
+        "word": "champ",
+        "sentence": "The World Series winner was the champ.",
+        "file": "en-us-female/basic/13-champ.mp3",
+        "bytes": 55341
+      },
+      {
+        "index": 13,
+        "word": "third",
+        "sentence": "Third place is behind first and second.",
+        "file": "en-us-female/basic/14-third.mp3",
+        "bytes": 57021
+      },
+      {
+        "index": 14,
+        "word": "drain",
+        "sentence": "Water goes down a drain.",
+        "file": "en-us-female/basic/15-drain.mp3",
+        "bytes": 52317
+      },
+      {
+        "index": 15,
+        "word": "bridges",
+        "sentence": "Two bridges go over the canyon.",
+        "file": "en-us-female/basic/16-bridges.mp3",
+        "bytes": 54501
+      },
+      {
+        "index": 16,
+        "word": "crutch",
+        "sentence": "If you are hurt, you can use a crutch to walk.",
+        "file": "en-us-female/basic/17-crutch.mp3",
+        "bytes": 60549
+      },
+      {
+        "index": 17,
+        "word": "growing",
+        "sentence": "We are growing carrots in our garden.",
+        "file": "en-us-female/basic/18-growing.mp3",
+        "bytes": 55341
+      },
+      {
+        "index": 18,
+        "word": "walked",
+        "sentence": "I walked slowly to school.",
+        "file": "en-us-female/basic/19-walked.mp3",
+        "bytes": 52653
+      },
+      {
+        "index": 19,
+        "word": "born",
+        "sentence": "The kittens were born yesterday.",
+        "file": "en-us-female/basic/20-born.mp3",
+        "bytes": 53997
+      },
+      {
+        "index": 20,
+        "word": "spoil",
+        "sentence": "Don't let the rain spoil the trip.",
+        "file": "en-us-female/basic/21-spoil.mp3",
+        "bytes": 54837
+      },
+      {
+        "index": 21,
+        "word": "smiling",
+        "sentence": "Smiling is easy if you are having fun.",
+        "file": "en-us-female/basic/22-smiling.mp3",
+        "bytes": 58869
+      },
+      {
+        "index": 22,
+        "word": "slipping",
+        "sentence": "Our feet were slipping on the ice.",
+        "file": "en-us-female/basic/23-slipping.mp3",
+        "bytes": 55845
+      },
+      {
+        "index": 23,
+        "word": "shouting",
+        "sentence": "My voice was tired from shouting.",
+        "file": "en-us-female/basic/24-shouting.mp3",
+        "bytes": 55677
+      },
+      {
+        "index": 24,
+        "word": "higher",
+        "sentence": "Eagles fly higher than most small birds.",
+        "file": "en-us-female/basic/25-higher.mp3",
+        "bytes": 59037
+      }
+    ],
+    "advanced": [
+      {
+        "index": 0,
+        "word": "cap",
+        "sentence": "My cap fits me perfectly.",
+        "file": "en-us-female/advanced/01-cap.mp3",
+        "bytes": 54501
+      },
+      {
+        "index": 1,
+        "word": "chip",
+        "sentence": "It is hard to eat just one potato chip.",
+        "file": "en-us-female/advanced/02-chip.mp3",
+        "bytes": 58197
+      },
+      {
+        "index": 2,
+        "word": "shut",
+        "sentence": "Please shut the window.",
+        "file": "en-us-female/advanced/03-shut.mp3",
+        "bytes": 50637
+      },
+      {
+        "index": 3,
+        "word": "tent",
+        "sentence": "I love sleeping in a cozy tent.",
+        "file": "en-us-female/advanced/04-tent.mp3",
+        "bytes": 55845
+      },
+      {
+        "index": 4,
+        "word": "grain",
+        "sentence": "I eat whole grain bread for breakfast.",
+        "file": "en-us-female/advanced/05-grain.mp3",
+        "bytes": 57693
+      },
+      {
+        "index": 5,
+        "word": "broke",
+        "sentence": "My brother broke my phone.",
+        "file": "en-us-female/advanced/06-broke.mp3",
+        "bytes": 52821
+      },
+      {
+        "index": 6,
+        "word": "slice",
+        "sentence": "Please give me one slice of apple.",
+        "file": "en-us-female/advanced/07-slice.mp3",
+        "bytes": 56685
+      },
+      {
+        "index": 7,
+        "word": "trudge",
+        "sentence": "I'll trudge to school with my heavy pack.",
+        "file": "en-us-female/advanced/08-trudge.mp3",
+        "bytes": 57021
+      },
+      {
+        "index": 8,
+        "word": "flight",
+        "sentence": "My flight home was delayed.",
+        "file": "en-us-female/advanced/09-flight.mp3",
+        "bytes": 52989
+      },
+      {
+        "index": 9,
+        "word": "dropping",
+        "sentence": "Dropping eggs is messy.",
+        "file": "en-us-female/advanced/10-dropping.mp3",
+        "bytes": 52317
+      },
+      {
+        "index": 10,
+        "word": "gnaw",
+        "sentence": "The squirrel will gnaw on nuts.",
+        "file": "en-us-female/advanced/11-gnaw.mp3",
+        "bytes": 53829
+      },
+      {
+        "index": 11,
+        "word": "curved",
+        "sentence": "A bow is a curved hunting weapon.",
+        "file": "en-us-female/advanced/12-curved.mp3",
+        "bytes": 54333
+      },
+      {
+        "index": 12,
+        "word": "fewer",
+        "sentence": "We had fewer rainstorms this year.",
+        "file": "en-us-female/advanced/13-fewer.mp3",
+        "bytes": 56349
+      },
+      {
+        "index": 13,
+        "word": "babies",
+        "sentence": "My rabbit had five babies.",
+        "file": "en-us-female/advanced/14-babies.mp3",
+        "bytes": 55509
+      },
+      {
+        "index": 14,
+        "word": "matched",
+        "sentence": "Her sweater matched the color of her eyes.",
+        "file": "en-us-female/advanced/15-matched.mp3",
+        "bytes": 58197
+      },
+      {
+        "index": 15,
+        "word": "known",
+        "sentence": "I wish I had known about the party.",
+        "file": "en-us-female/advanced/16-known.mp3",
+        "bytes": 54837
+      },
+      {
+        "index": 16,
+        "word": "pattern",
+        "sentence": "If you sew a costume, follow a pattern.",
+        "file": "en-us-female/advanced/17-pattern.mp3",
+        "bytes": 59037
+      },
+      {
+        "index": 17,
+        "word": "staples",
+        "sentence": "We will need staples for the stapler.",
+        "file": "en-us-female/advanced/18-staples.mp3",
+        "bytes": 59205
+      },
+      {
+        "index": 18,
+        "word": "radar",
+        "sentence": "Airports track planes by radar.",
+        "file": "en-us-female/advanced/19-radar.mp3",
+        "bytes": 56013
+      },
+      {
+        "index": 19,
+        "word": "except",
+        "sentence": "I like all vegetables except broccoli.",
+        "file": "en-us-female/advanced/20-except.mp3",
+        "bytes": 59205
+      },
+      {
+        "index": 20,
+        "word": "treasure",
+        "sentence": "The sunken ship still contained a treasure chest.",
+        "file": "en-us-female/advanced/21-treasure.mp3",
+        "bytes": 61725
+      },
+      {
+        "index": 21,
+        "word": "organization",
+        "sentence": "Would you like to join our organization?",
+        "file": "en-us-female/advanced/22-organization.mp3",
+        "bytes": 61389
+      },
+      {
+        "index": 22,
+        "word": "questionable",
+        "sentence": "The results of the test were questionable.",
+        "file": "en-us-female/advanced/23-questionable.mp3",
+        "bytes": 61221
+      },
+      {
+        "index": 23,
+        "word": "obedient",
+        "sentence": "An obedient dog follows commands.",
+        "file": "en-us-female/advanced/24-obedient.mp3",
+        "bytes": 59541
+      },
+      {
+        "index": 24,
+        "word": "resident",
+        "sentence": "A new resident came to live in our neighborhood.",
+        "file": "en-us-female/advanced/25-resident.mp3",
+        "bytes": 59037
+      }
+    ],
+    "hello": {
+      "file": "en-us-female/hello.mp3",
+      "bytes": 11232
+    }
+  },
+  "en-gb-female": {
+    "basic": [
+      {
+        "index": 0,
+        "word": "mud",
+        "sentence": "Don't step in the mud.",
+        "file": "en-gb-female/basic/01-mud.mp3",
+        "bytes": 48117
+      },
+      {
+        "index": 1,
+        "word": "nap",
+        "sentence": "I like to nap when I'm tired.",
+        "file": "en-gb-female/basic/02-nap.mp3",
+        "bytes": 51645
+      },
+      {
+        "index": 2,
+        "word": "set",
+        "sentence": "The sun will set in the west.",
+        "file": "en-gb-female/basic/03-set.mp3",
+        "bytes": 51813
+      },
+      {
+        "index": 3,
+        "word": "fog",
+        "sentence": "It's hard to see in thick fog.",
+        "file": "en-gb-female/basic/04-fog.mp3",
+        "bytes": 51813
+      },
+      {
+        "index": 4,
+        "word": "rib",
+        "sentence": "The football player broke his rib.",
+        "file": "en-gb-female/basic/05-rib.mp3",
+        "bytes": 52989
+      },
+      {
+        "index": 5,
+        "word": "life",
+        "sentence": "Remember to enjoy life every day.",
+        "file": "en-gb-female/basic/06-life.mp3",
+        "bytes": 55005
+      },
+      {
+        "index": 6,
+        "word": "shack",
+        "sentence": "A shack is a small house.",
+        "file": "en-gb-female/basic/07-shack.mp3",
+        "bytes": 50973
+      },
+      {
+        "index": 7,
+        "word": "stone",
+        "sentence": "Stone walls last a long time.",
+        "file": "en-gb-female/basic/08-stone.mp3",
+        "bytes": 53157
+      },
+      {
+        "index": 8,
+        "word": "trunk",
+        "sentence": "I keep all my toys in a trunk.",
+        "file": "en-gb-female/basic/09-trunk.mp3",
+        "bytes": 53157
+      },
+      {
+        "index": 9,
+        "word": "goat",
+        "sentence": "A goat is a useful farm animal.",
+        "file": "en-gb-female/basic/10-goat.mp3",
+        "bytes": 54501
+      },
+      {
+        "index": 10,
+        "word": "scrape",
+        "sentence": "Did you scrape your knee when you fell down?",
+        "file": "en-gb-female/basic/11-scrape.mp3",
+        "bytes": 55677
+      },
+      {
+        "index": 11,
+        "word": "beat",
+        "sentence": "Keep the beat when you clap to music.",
+        "file": "en-gb-female/basic/12-beat.mp3",
+        "bytes": 54837
+      },
+      {
+        "index": 12,
+        "word": "champ",
+        "sentence": "The World Series winner was the champ.",
+        "file": "en-gb-female/basic/13-champ.mp3",
+        "bytes": 54669
+      },
+      {
+        "index": 13,
+        "word": "third",
+        "sentence": "Third place is behind first and second.",
+        "file": "en-gb-female/basic/14-third.mp3",
+        "bytes": 58197
+      },
+      {
+        "index": 14,
+        "word": "drain",
+        "sentence": "Water goes down a drain.",
+        "file": "en-gb-female/basic/15-drain.mp3",
+        "bytes": 50301
+      },
+      {
+        "index": 15,
+        "word": "bridges",
+        "sentence": "Two bridges go over the canyon.",
+        "file": "en-gb-female/basic/16-bridges.mp3",
+        "bytes": 53325
+      },
+      {
+        "index": 16,
+        "word": "crutch",
+        "sentence": "If you are hurt, you can use a crutch to walk.",
+        "file": "en-gb-female/basic/17-crutch.mp3",
+        "bytes": 59205
+      },
+      {
+        "index": 17,
+        "word": "growing",
+        "sentence": "We are growing carrots in our garden.",
+        "file": "en-gb-female/basic/18-growing.mp3",
+        "bytes": 53829
+      },
+      {
+        "index": 18,
+        "word": "walked",
+        "sentence": "I walked slowly to school.",
+        "file": "en-gb-female/basic/19-walked.mp3",
+        "bytes": 50637
+      },
+      {
+        "index": 19,
+        "word": "born",
+        "sentence": "The kittens were born yesterday.",
+        "file": "en-gb-female/basic/20-born.mp3",
+        "bytes": 52653
+      },
+      {
+        "index": 20,
+        "word": "spoil",
+        "sentence": "Don't let the rain spoil the trip.",
+        "file": "en-gb-female/basic/21-spoil.mp3",
+        "bytes": 53997
+      },
+      {
+        "index": 21,
+        "word": "smiling",
+        "sentence": "Smiling is easy if you are having fun.",
+        "file": "en-gb-female/basic/22-smiling.mp3",
+        "bytes": 56181
+      },
+      {
+        "index": 22,
+        "word": "slipping",
+        "sentence": "Our feet were slipping on the ice.",
+        "file": "en-gb-female/basic/23-slipping.mp3",
+        "bytes": 53493
+      },
+      {
+        "index": 23,
+        "word": "shouting",
+        "sentence": "My voice was tired from shouting.",
+        "file": "en-gb-female/basic/24-shouting.mp3",
+        "bytes": 54165
+      },
+      {
+        "index": 24,
+        "word": "higher",
+        "sentence": "Eagles fly higher than most small birds.",
+        "file": "en-gb-female/basic/25-higher.mp3",
+        "bytes": 57357
+      }
+    ],
+    "advanced": [
+      {
+        "index": 0,
+        "word": "cap",
+        "sentence": "My cap fits me perfectly.",
+        "file": "en-gb-female/advanced/01-cap.mp3",
+        "bytes": 51645
+      },
+      {
+        "index": 1,
+        "word": "chip",
+        "sentence": "It is hard to eat just one potato chip.",
+        "file": "en-gb-female/advanced/02-chip.mp3",
+        "bytes": 57693
+      },
+      {
+        "index": 2,
+        "word": "shut",
+        "sentence": "Please shut the window.",
+        "file": "en-gb-female/advanced/03-shut.mp3",
+        "bytes": 48453
+      },
+      {
+        "index": 3,
+        "word": "tent",
+        "sentence": "I love sleeping in a cozy tent.",
+        "file": "en-gb-female/advanced/04-tent.mp3",
+        "bytes": 53325
+      },
+      {
+        "index": 4,
+        "word": "grain",
+        "sentence": "I eat whole grain bread for breakfast.",
+        "file": "en-gb-female/advanced/05-grain.mp3",
+        "bytes": 50973
+      },
+      {
+        "index": 5,
+        "word": "broke",
+        "sentence": "My brother broke my phone.",
+        "file": "en-gb-female/advanced/06-broke.mp3",
+        "bytes": 50637
+      },
+      {
+        "index": 6,
+        "word": "slice",
+        "sentence": "Please give me one slice of apple.",
+        "file": "en-gb-female/advanced/07-slice.mp3",
+        "bytes": 52821
+      },
+      {
+        "index": 7,
+        "word": "trudge",
+        "sentence": "I'll trudge to school with my heavy pack.",
+        "file": "en-gb-female/advanced/08-trudge.mp3",
+        "bytes": 55509
+      },
+      {
+        "index": 8,
+        "word": "flight",
+        "sentence": "My flight home was delayed.",
+        "file": "en-gb-female/advanced/09-flight.mp3",
+        "bytes": 51309
+      },
+      {
+        "index": 9,
+        "word": "dropping",
+        "sentence": "Dropping eggs is messy.",
+        "file": "en-gb-female/advanced/10-dropping.mp3",
+        "bytes": 49797
+      },
+      {
+        "index": 10,
+        "word": "gnaw",
+        "sentence": "The squirrel will gnaw on nuts.",
+        "file": "en-gb-female/advanced/11-gnaw.mp3",
+        "bytes": 52485
+      },
+      {
+        "index": 11,
+        "word": "curved",
+        "sentence": "A bow is a curved hunting weapon.",
+        "file": "en-gb-female/advanced/12-curved.mp3",
+        "bytes": 53829
+      },
+      {
+        "index": 12,
+        "word": "fewer",
+        "sentence": "We had fewer rainstorms this year.",
+        "file": "en-gb-female/advanced/13-fewer.mp3",
+        "bytes": 53997
+      },
+      {
+        "index": 13,
+        "word": "babies",
+        "sentence": "My rabbit had five babies.",
+        "file": "en-gb-female/advanced/14-babies.mp3",
+        "bytes": 52485
+      },
+      {
+        "index": 14,
+        "word": "matched",
+        "sentence": "Her sweater matched the color of her eyes.",
+        "file": "en-gb-female/advanced/15-matched.mp3",
+        "bytes": 55677
+      },
+      {
+        "index": 15,
+        "word": "known",
+        "sentence": "I wish I had known about the party.",
+        "file": "en-gb-female/advanced/16-known.mp3",
+        "bytes": 53325
+      },
+      {
+        "index": 16,
+        "word": "pattern",
+        "sentence": "If you sew a costume, follow a pattern.",
+        "file": "en-gb-female/advanced/17-pattern.mp3",
+        "bytes": 57357
+      },
+      {
+        "index": 17,
+        "word": "staples",
+        "sentence": "We will need staples for the stapler.",
+        "file": "en-gb-female/advanced/18-staples.mp3",
+        "bytes": 53997
+      },
+      {
+        "index": 18,
+        "word": "radar",
+        "sentence": "Airports track planes by radar.",
+        "file": "en-gb-female/advanced/19-radar.mp3",
+        "bytes": 54837
+      },
+      {
+        "index": 19,
+        "word": "except",
+        "sentence": "I like all vegetables except broccoli.",
+        "file": "en-gb-female/advanced/20-except.mp3",
+        "bytes": 56013
+      },
+      {
+        "index": 20,
+        "word": "treasure",
+        "sentence": "The sunken ship still contained a treasure chest.",
+        "file": "en-gb-female/advanced/21-treasure.mp3",
+        "bytes": 59541
+      },
+      {
+        "index": 21,
+        "word": "organization",
+        "sentence": "Would you like to join our organization?",
+        "file": "en-gb-female/advanced/22-organization.mp3",
+        "bytes": 55509
+      },
+      {
+        "index": 22,
+        "word": "questionable",
+        "sentence": "The results of the test were questionable.",
+        "file": "en-gb-female/advanced/23-questionable.mp3",
+        "bytes": 55509
+      },
+      {
+        "index": 23,
+        "word": "obedient",
+        "sentence": "An obedient dog follows commands.",
+        "file": "en-gb-female/advanced/24-obedient.mp3",
+        "bytes": 55173
+      },
+      {
+        "index": 24,
+        "word": "resident",
+        "sentence": "A new resident came to live in our neighborhood.",
+        "file": "en-gb-female/advanced/25-resident.mp3",
+        "bytes": 57861
+      }
+    ],
+    "hello": {
+      "file": "en-gb-female/hello.mp3",
+      "bytes": 11232
+    }
+  },
+  "en-us-male": {
+    "basic": [
+      {
+        "index": 0,
+        "word": "mud",
+        "sentence": "Don't step in the mud.",
+        "file": "en-us-male/basic/01-mud.mp3",
+        "bytes": 51141
+      },
+      {
+        "index": 1,
+        "word": "nap",
+        "sentence": "I like to nap when I'm tired.",
+        "file": "en-us-male/basic/02-nap.mp3",
+        "bytes": 53997
+      },
+      {
+        "index": 2,
+        "word": "set",
+        "sentence": "The sun will set in the west.",
+        "file": "en-us-male/basic/03-set.mp3",
+        "bytes": 54165
+      },
+      {
+        "index": 3,
+        "word": "fog",
+        "sentence": "It's hard to see in thick fog.",
+        "file": "en-us-male/basic/04-fog.mp3",
+        "bytes": 54333
+      },
+      {
+        "index": 4,
+        "word": "rib",
+        "sentence": "The football player broke his rib.",
+        "file": "en-us-male/basic/05-rib.mp3",
+        "bytes": 55509
+      },
+      {
+        "index": 5,
+        "word": "life",
+        "sentence": "Remember to enjoy life every day.",
+        "file": "en-us-male/basic/06-life.mp3",
+        "bytes": 57021
+      },
+      {
+        "index": 6,
+        "word": "shack",
+        "sentence": "A shack is a small house.",
+        "file": "en-us-male/basic/07-shack.mp3",
+        "bytes": 53493
+      },
+      {
+        "index": 7,
+        "word": "stone",
+        "sentence": "Stone walls last a long time.",
+        "file": "en-us-male/basic/08-stone.mp3",
+        "bytes": 56181
+      },
+      {
+        "index": 8,
+        "word": "trunk",
+        "sentence": "I keep all my toys in a trunk.",
+        "file": "en-us-male/basic/09-trunk.mp3",
+        "bytes": 55173
+      },
+      {
+        "index": 9,
+        "word": "goat",
+        "sentence": "A goat is a useful farm animal.",
+        "file": "en-us-male/basic/10-goat.mp3",
+        "bytes": 56349
+      },
+      {
+        "index": 10,
+        "word": "scrape",
+        "sentence": "Did you scrape your knee when you fell down?",
+        "file": "en-us-male/basic/11-scrape.mp3",
+        "bytes": 58869
+      },
+      {
+        "index": 11,
+        "word": "beat",
+        "sentence": "Keep the beat when you clap to music.",
+        "file": "en-us-male/basic/12-beat.mp3",
+        "bytes": 57357
+      },
+      {
+        "index": 12,
+        "word": "champ",
+        "sentence": "The World Series winner was the champ.",
+        "file": "en-us-male/basic/13-champ.mp3",
+        "bytes": 57189
+      },
+      {
+        "index": 13,
+        "word": "third",
+        "sentence": "Third place is behind first and second.",
+        "file": "en-us-male/basic/14-third.mp3",
+        "bytes": 59037
+      },
+      {
+        "index": 14,
+        "word": "drain",
+        "sentence": "Water goes down a drain.",
+        "file": "en-us-male/basic/15-drain.mp3",
+        "bytes": 52989
+      },
+      {
+        "index": 15,
+        "word": "bridges",
+        "sentence": "Two bridges go over the canyon.",
+        "file": "en-us-male/basic/16-bridges.mp3",
+        "bytes": 56013
+      },
+      {
+        "index": 16,
+        "word": "crutch",
+        "sentence": "If you are hurt, you can use a crutch to walk.",
+        "file": "en-us-male/basic/17-crutch.mp3",
+        "bytes": 61557
+      },
+      {
+        "index": 17,
+        "word": "growing",
+        "sentence": "We are growing carrots in our garden.",
+        "file": "en-us-male/basic/18-growing.mp3",
+        "bytes": 57021
+      },
+      {
+        "index": 18,
+        "word": "walked",
+        "sentence": "I walked slowly to school.",
+        "file": "en-us-male/basic/19-walked.mp3",
+        "bytes": 53493
+      },
+      {
+        "index": 19,
+        "word": "born",
+        "sentence": "The kittens were born yesterday.",
+        "file": "en-us-male/basic/20-born.mp3",
+        "bytes": 56013
+      },
+      {
+        "index": 20,
+        "word": "spoil",
+        "sentence": "Don't let the rain spoil the trip.",
+        "file": "en-us-male/basic/21-spoil.mp3",
+        "bytes": 56181
+      },
+      {
+        "index": 21,
+        "word": "smiling",
+        "sentence": "Smiling is easy if you are having fun.",
+        "file": "en-us-male/basic/22-smiling.mp3",
+        "bytes": 60717
+      },
+      {
+        "index": 22,
+        "word": "slipping",
+        "sentence": "Our feet were slipping on the ice.",
+        "file": "en-us-male/basic/23-slipping.mp3",
+        "bytes": 56013
+      },
+      {
+        "index": 23,
+        "word": "shouting",
+        "sentence": "My voice was tired from shouting.",
+        "file": "en-us-male/basic/24-shouting.mp3",
+        "bytes": 56349
+      },
+      {
+        "index": 24,
+        "word": "higher",
+        "sentence": "Eagles fly higher than most small birds.",
+        "file": "en-us-male/basic/25-higher.mp3",
+        "bytes": 59205
+      }
+    ],
+    "advanced": [
+      {
+        "index": 0,
+        "word": "cap",
+        "sentence": "My cap fits me perfectly.",
+        "file": "en-us-male/advanced/01-cap.mp3",
+        "bytes": 54165
+      },
+      {
+        "index": 1,
+        "word": "chip",
+        "sentence": "It is hard to eat just one potato chip.",
+        "file": "en-us-male/advanced/02-chip.mp3",
+        "bytes": 58533
+      },
+      {
+        "index": 2,
+        "word": "shut",
+        "sentence": "Please shut the window.",
+        "file": "en-us-male/advanced/03-shut.mp3",
+        "bytes": 50637
+      },
+      {
+        "index": 3,
+        "word": "tent",
+        "sentence": "I love sleeping in a cozy tent.",
+        "file": "en-us-male/advanced/04-tent.mp3",
+        "bytes": 56349
+      },
+      {
+        "index": 4,
+        "word": "grain",
+        "sentence": "I eat whole grain bread for breakfast.",
+        "file": "en-us-male/advanced/05-grain.mp3",
+        "bytes": 56853
+      },
+      {
+        "index": 5,
+        "word": "broke",
+        "sentence": "My brother broke my phone.",
+        "file": "en-us-male/advanced/06-broke.mp3",
+        "bytes": 53157
+      },
+      {
+        "index": 6,
+        "word": "slice",
+        "sentence": "Please give me one slice of apple.",
+        "file": "en-us-male/advanced/07-slice.mp3",
+        "bytes": 56853
+      },
+      {
+        "index": 7,
+        "word": "trudge",
+        "sentence": "I'll trudge to school with my heavy pack.",
+        "file": "en-us-male/advanced/08-trudge.mp3",
+        "bytes": 57021
+      },
+      {
+        "index": 8,
+        "word": "flight",
+        "sentence": "My flight home was delayed.",
+        "file": "en-us-male/advanced/09-flight.mp3",
+        "bytes": 53661
+      },
+      {
+        "index": 9,
+        "word": "dropping",
+        "sentence": "Dropping eggs is messy.",
+        "file": "en-us-male/advanced/10-dropping.mp3",
+        "bytes": 52485
+      },
+      {
+        "index": 10,
+        "word": "gnaw",
+        "sentence": "The squirrel will gnaw on nuts.",
+        "file": "en-us-male/advanced/11-gnaw.mp3",
+        "bytes": 55005
+      },
+      {
+        "index": 11,
+        "word": "curved",
+        "sentence": "A bow is a curved hunting weapon.",
+        "file": "en-us-male/advanced/12-curved.mp3",
+        "bytes": 56181
+      },
+      {
+        "index": 12,
+        "word": "fewer",
+        "sentence": "We had fewer rainstorms this year.",
+        "file": "en-us-male/advanced/13-fewer.mp3",
+        "bytes": 59037
+      },
+      {
+        "index": 13,
+        "word": "babies",
+        "sentence": "My rabbit had five babies.",
+        "file": "en-us-male/advanced/14-babies.mp3",
+        "bytes": 56181
+      },
+      {
+        "index": 14,
+        "word": "matched",
+        "sentence": "Her sweater matched the color of her eyes.",
+        "file": "en-us-male/advanced/15-matched.mp3",
+        "bytes": 58533
+      },
+      {
+        "index": 15,
+        "word": "known",
+        "sentence": "I wish I had known about the party.",
+        "file": "en-us-male/advanced/16-known.mp3",
+        "bytes": 56349
+      },
+      {
+        "index": 16,
+        "word": "pattern",
+        "sentence": "If you sew a costume, follow a pattern.",
+        "file": "en-us-male/advanced/17-pattern.mp3",
+        "bytes": 60381
+      },
+      {
+        "index": 17,
+        "word": "staples",
+        "sentence": "We will need staples for the stapler.",
+        "file": "en-us-male/advanced/18-staples.mp3",
+        "bytes": 60045
+      },
+      {
+        "index": 18,
+        "word": "radar",
+        "sentence": "Airports track planes by radar.",
+        "file": "en-us-male/advanced/19-radar.mp3",
+        "bytes": 58869
+      },
+      {
+        "index": 19,
+        "word": "except",
+        "sentence": "I like all vegetables except broccoli.",
+        "file": "en-us-male/advanced/20-except.mp3",
+        "bytes": 60213
+      },
+      {
+        "index": 20,
+        "word": "treasure",
+        "sentence": "The sunken ship still contained a treasure chest.",
+        "file": "en-us-male/advanced/21-treasure.mp3",
+        "bytes": 61557
+      },
+      {
+        "index": 21,
+        "word": "organization",
+        "sentence": "Would you like to join our organization?",
+        "file": "en-us-male/advanced/22-organization.mp3",
+        "bytes": 63909
+      },
+      {
+        "index": 22,
+        "word": "questionable",
+        "sentence": "The results of the test were questionable.",
+        "file": "en-us-male/advanced/23-questionable.mp3",
+        "bytes": 64077
+      },
+      {
+        "index": 23,
+        "word": "obedient",
+        "sentence": "An obedient dog follows commands.",
+        "file": "en-us-male/advanced/24-obedient.mp3",
+        "bytes": 63069
+      },
+      {
+        "index": 24,
+        "word": "resident",
+        "sentence": "A new resident came to live in our neighborhood.",
+        "file": "en-us-male/advanced/25-resident.mp3",
+        "bytes": 64413
+      }
+    ],
+    "hello": {
+      "file": "en-us-male/hello.mp3",
+      "bytes": 11232
+    }
+  },
+  "en-gb-male": {
+    "basic": [
+      {
+        "index": 0,
+        "word": "mud",
+        "sentence": "Don't step in the mud.",
+        "file": "en-gb-male/basic/01-mud.mp3",
+        "bytes": 50301
+      },
+      {
+        "index": 1,
+        "word": "nap",
+        "sentence": "I like to nap when I'm tired.",
+        "file": "en-gb-male/basic/02-nap.mp3",
+        "bytes": 54501
+      },
+      {
+        "index": 2,
+        "word": "set",
+        "sentence": "The sun will set in the west.",
+        "file": "en-gb-male/basic/03-set.mp3",
+        "bytes": 53829
+      },
+      {
+        "index": 3,
+        "word": "fog",
+        "sentence": "It's hard to see in thick fog.",
+        "file": "en-gb-male/basic/04-fog.mp3",
+        "bytes": 55005
+      },
+      {
+        "index": 4,
+        "word": "rib",
+        "sentence": "The football player broke his rib.",
+        "file": "en-gb-male/basic/05-rib.mp3",
+        "bytes": 53157
+      },
+      {
+        "index": 5,
+        "word": "life",
+        "sentence": "Remember to enjoy life every day.",
+        "file": "en-gb-male/basic/06-life.mp3",
+        "bytes": 57189
+      },
+      {
+        "index": 6,
+        "word": "shack",
+        "sentence": "A shack is a small house.",
+        "file": "en-gb-male/basic/07-shack.mp3",
+        "bytes": 53997
+      },
+      {
+        "index": 7,
+        "word": "stone",
+        "sentence": "Stone walls last a long time.",
+        "file": "en-gb-male/basic/08-stone.mp3",
+        "bytes": 56685
+      },
+      {
+        "index": 8,
+        "word": "trunk",
+        "sentence": "I keep all my toys in a trunk.",
+        "file": "en-gb-male/basic/09-trunk.mp3",
+        "bytes": 55509
+      },
+      {
+        "index": 9,
+        "word": "goat",
+        "sentence": "A goat is a useful farm animal.",
+        "file": "en-gb-male/basic/10-goat.mp3",
+        "bytes": 54333
+      },
+      {
+        "index": 10,
+        "word": "scrape",
+        "sentence": "Did you scrape your knee when you fell down?",
+        "file": "en-gb-male/basic/11-scrape.mp3",
+        "bytes": 57693
+      },
+      {
+        "index": 11,
+        "word": "beat",
+        "sentence": "Keep the beat when you clap to music.",
+        "file": "en-gb-male/basic/12-beat.mp3",
+        "bytes": 55677
+      },
+      {
+        "index": 12,
+        "word": "champ",
+        "sentence": "The World Series winner was the champ.",
+        "file": "en-gb-male/basic/13-champ.mp3",
+        "bytes": 56349
+      },
+      {
+        "index": 13,
+        "word": "third",
+        "sentence": "Third place is behind first and second.",
+        "file": "en-gb-male/basic/14-third.mp3",
+        "bytes": 59541
+      },
+      {
+        "index": 14,
+        "word": "drain",
+        "sentence": "Water goes down a drain.",
+        "file": "en-gb-male/basic/15-drain.mp3",
+        "bytes": 53493
+      },
+      {
+        "index": 15,
+        "word": "bridges",
+        "sentence": "Two bridges go over the canyon.",
+        "file": "en-gb-male/basic/16-bridges.mp3",
+        "bytes": 55005
+      },
+      {
+        "index": 16,
+        "word": "crutch",
+        "sentence": "If you are hurt, you can use a crutch to walk.",
+        "file": "en-gb-male/basic/17-crutch.mp3",
+        "bytes": 61725
+      },
+      {
+        "index": 17,
+        "word": "growing",
+        "sentence": "We are growing carrots in our garden.",
+        "file": "en-gb-male/basic/18-growing.mp3",
+        "bytes": 56685
+      },
+      {
+        "index": 18,
+        "word": "walked",
+        "sentence": "I walked slowly to school.",
+        "file": "en-gb-male/basic/19-walked.mp3",
+        "bytes": 52653
+      },
+      {
+        "index": 19,
+        "word": "born",
+        "sentence": "The kittens were born yesterday.",
+        "file": "en-gb-male/basic/20-born.mp3",
+        "bytes": 54669
+      },
+      {
+        "index": 20,
+        "word": "spoil",
+        "sentence": "Don't let the rain spoil the trip.",
+        "file": "en-gb-male/basic/21-spoil.mp3",
+        "bytes": 54669
+      },
+      {
+        "index": 21,
+        "word": "smiling",
+        "sentence": "Smiling is easy if you are having fun.",
+        "file": "en-gb-male/basic/22-smiling.mp3",
+        "bytes": 59709
+      },
+      {
+        "index": 22,
+        "word": "slipping",
+        "sentence": "Our feet were slipping on the ice.",
+        "file": "en-gb-male/basic/23-slipping.mp3",
+        "bytes": 56181
+      },
+      {
+        "index": 23,
+        "word": "shouting",
+        "sentence": "My voice was tired from shouting.",
+        "file": "en-gb-male/basic/24-shouting.mp3",
+        "bytes": 57021
+      },
+      {
+        "index": 24,
+        "word": "higher",
+        "sentence": "Eagles fly higher than most small birds.",
+        "file": "en-gb-male/basic/25-higher.mp3",
+        "bytes": 60213
+      }
+    ],
+    "advanced": [
+      {
+        "index": 0,
+        "word": "cap",
+        "sentence": "My cap fits me perfectly.",
+        "file": "en-gb-male/advanced/01-cap.mp3",
+        "bytes": 54501
+      },
+      {
+        "index": 1,
+        "word": "chip",
+        "sentence": "It is hard to eat just one potato chip.",
+        "file": "en-gb-male/advanced/02-chip.mp3",
+        "bytes": 59709
+      },
+      {
+        "index": 2,
+        "word": "shut",
+        "sentence": "Please shut the window.",
+        "file": "en-gb-male/advanced/03-shut.mp3",
+        "bytes": 50637
+      },
+      {
+        "index": 3,
+        "word": "tent",
+        "sentence": "I love sleeping in a cozy tent.",
+        "file": "en-gb-male/advanced/04-tent.mp3",
+        "bytes": 56685
+      },
+      {
+        "index": 4,
+        "word": "grain",
+        "sentence": "I eat whole grain bread for breakfast.",
+        "file": "en-gb-male/advanced/05-grain.mp3",
+        "bytes": 56517
+      },
+      {
+        "index": 5,
+        "word": "broke",
+        "sentence": "My brother broke my phone.",
+        "file": "en-gb-male/advanced/06-broke.mp3",
+        "bytes": 53325
+      },
+      {
+        "index": 6,
+        "word": "slice",
+        "sentence": "Please give me one slice of apple.",
+        "file": "en-gb-male/advanced/07-slice.mp3",
+        "bytes": 56517
+      },
+      {
+        "index": 7,
+        "word": "trudge",
+        "sentence": "I'll trudge to school with my heavy pack.",
+        "file": "en-gb-male/advanced/08-trudge.mp3",
+        "bytes": 57525
+      },
+      {
+        "index": 8,
+        "word": "flight",
+        "sentence": "My flight home was delayed.",
+        "file": "en-gb-male/advanced/09-flight.mp3",
+        "bytes": 53493
+      },
+      {
+        "index": 9,
+        "word": "dropping",
+        "sentence": "Dropping eggs is messy.",
+        "file": "en-gb-male/advanced/10-dropping.mp3",
+        "bytes": 51813
+      },
+      {
+        "index": 10,
+        "word": "gnaw",
+        "sentence": "The squirrel will gnaw on nuts.",
+        "file": "en-gb-male/advanced/11-gnaw.mp3",
+        "bytes": 54669
+      },
+      {
+        "index": 11,
+        "word": "curved",
+        "sentence": "A bow is a curved hunting weapon.",
+        "file": "en-gb-male/advanced/12-curved.mp3",
+        "bytes": 56181
+      },
+      {
+        "index": 12,
+        "word": "fewer",
+        "sentence": "We had fewer rainstorms this year.",
+        "file": "en-gb-male/advanced/13-fewer.mp3",
+        "bytes": 56685
+      },
+      {
+        "index": 13,
+        "word": "babies",
+        "sentence": "My rabbit had five babies.",
+        "file": "en-gb-male/advanced/14-babies.mp3",
+        "bytes": 56853
+      },
+      {
+        "index": 14,
+        "word": "matched",
+        "sentence": "Her sweater matched the color of her eyes.",
+        "file": "en-gb-male/advanced/15-matched.mp3",
+        "bytes": 57525
+      },
+      {
+        "index": 15,
+        "word": "known",
+        "sentence": "I wish I had known about the party.",
+        "file": "en-gb-male/advanced/16-known.mp3",
+        "bytes": 55341
+      },
+      {
+        "index": 16,
+        "word": "pattern",
+        "sentence": "If you sew a costume, follow a pattern.",
+        "file": "en-gb-male/advanced/17-pattern.mp3",
+        "bytes": 58533
+      },
+      {
+        "index": 17,
+        "word": "staples",
+        "sentence": "We will need staples for the stapler.",
+        "file": "en-gb-male/advanced/18-staples.mp3",
+        "bytes": 59373
+      },
+      {
+        "index": 18,
+        "word": "radar",
+        "sentence": "Airports track planes by radar.",
+        "file": "en-gb-male/advanced/19-radar.mp3",
+        "bytes": 57189
+      },
+      {
+        "index": 19,
+        "word": "except",
+        "sentence": "I like all vegetables except broccoli.",
+        "file": "en-gb-male/advanced/20-except.mp3",
+        "bytes": 59037
+      },
+      {
+        "index": 20,
+        "word": "treasure",
+        "sentence": "The sunken ship still contained a treasure chest.",
+        "file": "en-gb-male/advanced/21-treasure.mp3",
+        "bytes": 61221
+      },
+      {
+        "index": 21,
+        "word": "organization",
+        "sentence": "Would you like to join our organization?",
+        "file": "en-gb-male/advanced/22-organization.mp3",
+        "bytes": 63237
+      },
+      {
+        "index": 22,
+        "word": "questionable",
+        "sentence": "The results of the test were questionable.",
+        "file": "en-gb-male/advanced/23-questionable.mp3",
+        "bytes": 59541
+      },
+      {
+        "index": 23,
+        "word": "obedient",
+        "sentence": "An obedient dog follows commands.",
+        "file": "en-gb-male/advanced/24-obedient.mp3",
+        "bytes": 60045
+      },
+      {
+        "index": 24,
+        "word": "resident",
+        "sentence": "A new resident came to live in our neighborhood.",
+        "file": "en-gb-male/advanced/25-resident.mp3",
+        "bytes": 59709
+      }
+    ],
+    "hello": {
+      "file": "en-gb-male/hello.mp3",
+      "bytes": 11232
+    }
+  }
+}
